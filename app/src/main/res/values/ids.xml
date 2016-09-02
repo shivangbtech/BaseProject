@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="backgroundLayer" type="id"/>
+    <item name="item_click_support" type="id" />
+    <item name="feed_type_tag" type="id"/>
+    <item name="selected_feed_position" type="id"/>
+
+</resources>

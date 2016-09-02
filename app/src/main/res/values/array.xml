@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="add_photo_edit">
+        <item>Select from gallery</item>
+        <item>Take a new photo</item>
+        <item>Remove image</item>
+    </string-array>
+
+    <string-array name="add_photo">
+        <item>Select from gallery</item>
+        <item>Take a new photo</item>
+    </string-array>
+
+
+</resources>

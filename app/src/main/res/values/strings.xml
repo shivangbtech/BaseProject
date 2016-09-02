@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <!--AlertUtils.java-->
+
+    <string name="alert_network_title">Connectivity</string>
+    <string name="alert_network_desc">Please Check The Internet Connection!</string>
+
+
+
+    <!--Validations-->
+    <string name="validation_setting_web_view_url">Not A Valid Url!</string>
+    <string name="validation_file_picker_not_available">Please install a File Manager!</string>
+    <string name="validation_permission_required">You need to give required permission1</string>
+
+    <!--Label -->
+    <string name="label_empty_list_message">This folder is empty</string>
+    <string name="label_dialog_add_photo_title">Add Photo</string>
+
+</resources>
